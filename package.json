@@ -1,0 +1,24 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "Pantry tracker for Hack Reactor Minimum Viable Product sprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bradyhoo/MVP.git"
+  },
+  "author": "Jacob Fink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bradyhoo/MVP/issues"
+  },
+  "homepage": "https://github.com/Bradyhoo/MVP#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
