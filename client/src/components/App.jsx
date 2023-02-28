@@ -1,9 +1,11 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
+import AddForm from './AddForm';
+import Table from './Table'
 
 const App = () => {
 
   return (
-    <>Hello World</>
+    <div className='page-title'>Pantry Tracker</div>
   );
 }
 
