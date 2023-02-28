@@ -2,7 +2,7 @@
   "name": "mvp",
   "version": "1.0.0",
   "description": "Pantry tracker for Hack Reactor Minimum Viable Product sprint",
-  "main": "index.js",
+  "main": "server/index.js",
   "scripts": {
     "server-dev": "npx nodemon --watch server/index.js",
     "react-dev": "npx webpack --watch",
@@ -23,6 +23,7 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
     "babel-loader": "^9.1.2",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "path": "^0.12.7",
