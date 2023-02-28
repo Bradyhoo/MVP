@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
-import AddForm from './AddForm';
-import Table from './Table'
+import AddForm from './AddForm.jsx';
+import Table from './Table.jsx'
 
 const App = () => {
 
